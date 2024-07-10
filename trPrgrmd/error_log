@@ -1,0 +1,12 @@
+[13-Dec-2019 22:49:59 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laborator/public_html/trPrgrmd/query.php on line 16
+[13-Dec-2019 22:49:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/laborator/public_html/trPrgrmd/query.php:18
+Stack trace:
+#0 /home/laborator/public_html/trPrgrmd/eliminarAntiguos.php(18): bd_query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/laborator/public_html/trPrgrmd/query.php on line 18
+[13-Dec-2019 22:51:12 America/Mexico_City] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/laborator/public_html/trPrgrmd/query.php on line 16
+[13-Dec-2019 22:51:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to a member function set_charset() on boolean in /home/laborator/public_html/trPrgrmd/query.php:18
+Stack trace:
+#0 /home/laborator/public_html/trPrgrmd/eliminarAntiguos.php(18): bd_query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home/laborator/public_html/trPrgrmd/query.php on line 18

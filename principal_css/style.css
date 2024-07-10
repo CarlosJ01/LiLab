@@ -1,0 +1,94 @@
+/* Background*/
+
+
+body {
+  background: url("") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.modal-footer p{
+  font-size: 13px;
+}
+
+/* Navbar transparente */
+
+.navbar-custom{
+  padding-top:1rem;
+  padding-bottom:1rem;
+  background-color:rgba(0,0,0,.7)
+}
+.navbar-custom .navbar-brand{
+  text-transform:uppercase;
+  font-size:1rem;
+  letter-spacing:.1rem;
+  font-weight:700
+}
+.navbar-custom .navbar-nav .nav-item .nav-link{
+  text-transform:uppercase;
+  font-size:.8rem;
+  font-weight:700;
+  letter-spacing:.1rem
+}
+
+
+/* Diseño footer*/
+
+
+.footer-top p, li{
+  color: #fff;
+  line-height: 25px;
+}
+
+.footer-top h3{
+  color: #fff;
+  font-size: 18px;
+}
+
+.footer-top {
+  background: rgba(48, 77, 246,1);
+  padding: 60px 0;
+}
+
+.segment-one h3:before{
+  content: '|';
+  color: #B93A21;
+  padding-right: 10px;
+}
+
+.segment-two h3:before{
+  content: '|';
+  color: #139824;
+  padding-right: 10px;
+}
+
+.segment-three h3:before{
+  content: '|';
+  color: #889813;
+  padding-right: 10px;
+}
+
+.segment-three a i{
+  font-size: 20px;
+  color: white;
+}
+
+.footer-bottom-text{
+  color: white;
+  text-align: center;
+  background: #000;
+  line-height: 75px;
+}
+
+.formulario input{
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+textarea{
+  margin-bottom: 40px;
+  border-radius: 5px;
+  width: 300px;
+}

@@ -1,0 +1,37 @@
+<table class="table  textCenter bg-white miScroll" style="margin-top: 2%; width:100%;">
+											
+											<thead style="width:100%; background:#5d97e2;">
+											  <tr id="headTR">
+												<th scope="col">ID</th>
+												<th scope="col">Titulo</th>
+												<th scope="col">Descripcion</th>
+												<th scope="col">Carrusel</th>
+												<th scope="col">Cuerpo</th>
+											  </tr>
+											</thead>
+								
+								
+											<tbody>
+												  <tr class="aHover1" >
+													<th scope="row">1</th>
+													<td>2x1</td>
+													<td>mucho</td>
+													<td><a href="#" class="link">carrucel.jpg</a></td>
+													<td><a href="#" class="link">cuerpo.jpg</a></td>
+												  </tr>
+												  <tr class="aHover1" >
+													<th scope="row">2</th>
+													<td>mortal</td>
+													<td>combat</td>
+													<td><a href="#" class="link">carrucel.jpg</a></td>
+													<td><a href="#" class="link">cuerpo.jpg</a></td>
+												  </tr>
+												  <tr class="aHover1">
+													<th scope="row">3</th>
+													<td >Buen Fin</td>
+													<td>good</td>
+													<td><a href="#" class="link">carrucel.jpg</a></td>
+													<td><a href="#" class="link">cuerpo.jpg</a></td>
+												  </tr>
+												</tbody>
+											</table>
